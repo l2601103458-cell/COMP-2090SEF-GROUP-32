@@ -27,7 +27,7 @@ Heap sort leverages the max-heap property to sort data in-place. The algorithm f
 4. Heapify the new root to restore the max-heap property for the remaining elements.
 5. Repeat steps 2-4 until the entire array is sorted.
 
-### 2.4 Code Example
+### 2.4 Code Example(Further explanation will be added later.)
 ```python
 def heapify(arr, n, i):
     largest = i
