@@ -1,5 +1,10 @@
 # Food Delivery System - Task 1 Introduction
 
+## Group Members
+- Liu Pinwei(13703437)
+- Tang Chao(13791501)
+- TSOI Pak Kiu(14276156)
+
 ## Main Idea
 We are planning to make a food delivery system, which could be more convenient for people to order food delivery. The program of the system will be separated into four parts, customers, restaurants, delivery platform, and main system. The main functions of these parts are:
 - Customers: account management, food ordering
