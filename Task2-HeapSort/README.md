@@ -1,5 +1,10 @@
 # Self Study Report on Heap Sort
 
+## Group Members
+- Liu Pinwei(13703437)
+- Tang Chao(13791501)
+- TSOI Pak Kiu(14276156)
+
 ## 1. Introduction
 Sorting is a fundamental operation in computer science, widely used in data processing, information retrieval, and artificial intelligence, and heap sort is an efficient sorting algorithm based on the heap data structure, with stable time complexity and low space overhead. This report introduces the heap data structure, explains the principle of heap sort, provides a Python implementation, analyzes its complexity, and discusses applications.
 
