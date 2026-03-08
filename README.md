@@ -1,6 +1,6 @@
 # COMP-2090SEF-GROUP-32
 
-##Group Menbers
+#Group Members
 -Liu Pinwei
 -Tang Chao
 -TSOI Pak Kiu
