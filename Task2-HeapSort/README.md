@@ -1,20 +1,31 @@
-# Task 2: Heap & Heap Sort
-Self-study project for COMP8090SEF / S209W
+# Task 2 - Heap Data Structure & Heap Sort Algorithm
+Course: COMP2090SEF
+Self-study project: One new data structure + One new algorithm
+
+## Overview
+This task implements:
+- Data Structure: MaxHeap 
+- Algorithm: Heap Sort 
 
 ## Files
-- heap.py: MaxHeap data structure implementation
-- heap_sort.py: Heap Sort algorithm implementation
+- heap.py: Implementation of MaxHeap with core operations
+- heap_sort.py: Implementation of Heap Sort using MaxHeap
+
+## Core Functions
+### MaxHeap
+- insert(value): Add an element to the heap
+- extract_max(): Remove and return the maximum element
+- is_empty(): Check if the heap is empty
+- Internal heapify logic to maintain heap property
+
+### Heap Sort
+- Sort a list of numbers in ascending order
+- Time Complexity: O(n log n)
 
 ## How to Run
-1. Run heap_sort.py directly
-2. Or import MaxHeap from heap.py to test heap operations
+1. Run heap_sort.py directly to see the sorting result
+2. Test heap operations by importing MaxHeap from heap.py
 
-## Functions
-- MaxHeap: insert, extract_max, heapify_up, heapify_down
-- heap_sort: sort a list in ascending order
-
-## GitHub Link
-(你的链接)
-
-## Video Link
-(你的视频链接)
+## Links
+- GitHub Repository: [Your GitHub Link]
+- 5-Minute Explanation Video: [Your Video Link
