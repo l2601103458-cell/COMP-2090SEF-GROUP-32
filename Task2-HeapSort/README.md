@@ -2,6 +2,11 @@
 Course: COMP2090SEF
 Self-study project: One new data structure + One new algorithm
 
+## Group Members
+- Liu Pinwei(13703437)
+- Tang Chao(13791501)
+- TSOI Pak Kiu(14276156)
+
 ## Overview
 This task implements:
 - Data Structure: MaxHeap 
