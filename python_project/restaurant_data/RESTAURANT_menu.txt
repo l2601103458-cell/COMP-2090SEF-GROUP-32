@@ -1,7 +1,0 @@
-type1;1;dish1;123;0
-type1;2;dish2;233;0
-type1;3;dish3;321;0
-type2;4;dish4;665;0
-type3;5;dish5;1234;0
-type2;6;dish6;190;0
-type3;7;dish7;1232;0
