@@ -1,5 +1,0 @@
-type1;1;HappyMeal;210;0
-type1;2;Mayyt;233;0
-type2;3;123123;1232;0
-type3;4;DIsh;2021;0
-type3;5;qwer;1212;0

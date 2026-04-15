@@ -1,6 +1,0 @@
-type1;1;dish1;50;100
-type1;2;dish2;40;1
-type2;3;dish3;72;12
-type2;4;dish4;73;140
-type3;5;dish5;56;160
-type4;6;dish6;10;132
