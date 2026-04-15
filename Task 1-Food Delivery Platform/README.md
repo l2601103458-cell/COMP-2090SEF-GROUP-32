@@ -137,4 +137,7 @@ type2;4;dish4;73;140<br>
 type3;5;dish5;56;160<br>
 type4;6;dish6;10;132
 
+## Links
+- 5-Minute Explanation Video:https://drive.google.com/file/d/10pNdvv9IyvQWH8PrnGriABRVxcSFgP6N/view?usp=drivesdk
+
 ## <p align = "center">THE END</p>
