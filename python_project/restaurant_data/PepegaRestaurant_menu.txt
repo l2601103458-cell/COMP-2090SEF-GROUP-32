@@ -1,0 +1,10 @@
+type1;1;dish1;50;100
+type1;2;dish2;40;1232
+type2;3;dish3;72;121
+type2;4;dish4;73;140
+type2;5;dish5;56;160
+type2;6;dish6;10;132
+type3;7;dish7;100;1223
+type3;8;dish8;900;10021
+type4;9;dish9;100;2121
+type4;10;dish10;1000;2133
